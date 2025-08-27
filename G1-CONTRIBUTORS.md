@@ -1,3 +1,4 @@
 ## Contributors
 - _Add your name here in Task C_
-- Ramos, Jeremiah (**tallbreadstick**)
+- Revilleza, Frederick (**@blissfuljuan**)
+- Ramos, Jeremiah (**@tallbreadstick**)
